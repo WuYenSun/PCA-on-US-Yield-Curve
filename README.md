@@ -14,6 +14,8 @@ Notably, our research revealed an interesting distinction between the behavior o
 Prior to the crisis, a parallel shift in the yield curve was a common occurrence, where all maturities experienced uniform changes. 
 However, in the aftermath of the crisis, we observed a notable shift in the behavior of the first principal component.
 
+![Principal Components Comparison](https://github.com/WuYenSun/PCA_on_Yield_Curve/blob/main/pca_subplot.png?raw=true)
+
 Following the crisis, the short-term interest rate appeared to stabilize, while the mid and long-term rates often exhibited a parallel shift. 
 This discrepancy implies that the dynamics driving the yield curve changed significantly in the post-2008 period compared to the pre-crisis era. 
 Such a finding holds important implications for understanding the evolving nature of the financial markets and the impact of major economic events.
